@@ -10,6 +10,7 @@ Tools and guides for working with AI coding agents.
 | [Agent Policy Map](https://github.com/incline-ltd/agent-policy-map) | Compare which instructions four coding agents can see for the same file. |
 | [Agent Cost Guard](https://github.com/incline-ltd/agent-cost-guard) | Check proposed commands for supported cloud-cost rules before they run. |
 | [Production Launch Prompts](https://github.com/incline-ltd/production-launch-prompts) | Review an app before launch with practical audit prompts and checklists. |
+| [Code Review Council](https://github.com/incline-ltd/code-review-council) | Cross-check code changes with Claude Code and Codex before merging. |
 
 Agent Policy Map and Agent Cost Guard are source previews. Their READMEs explain setup,
 coverage and current limits.
